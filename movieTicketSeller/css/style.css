@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(99, 128, 133);
+  }
+     
+  
+   
+.button{
+  background-color: rgb(35, 184, 243);
+  border: none;
+  color: rgb(34, 16, 56);
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+}
+.login_form #serial_error{
+  background: rgb(94, 10, 163);
+  border: none;
+  color: rgb(231, 111, 13);
+  padding: 5px 5px;
+  text-align: center;
+  border-radius: 3px;
+  border: 1px solid;
+}
+  
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: rgb(8, 28, 145);
+}
+  .back{
+    color: red;
+   
+    font-size: 30px;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30px;
+    align-items : center;
+  }
+  .back:hover{
+    background-color: rgb(72, 28, 145);
+    
+  }
